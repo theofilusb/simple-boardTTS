@@ -30,4 +30,5 @@ The application follows a multi-stage pipeline to deliver its functionality:
 To build and run this project locally, follow these steps:
 
 1.  **Clone the repository:**
-    
+2.  **Add the repository in Android Studio**
+3.  **Run the project in a virtual or physical device**     
