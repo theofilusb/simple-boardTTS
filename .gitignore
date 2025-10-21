@@ -1,0 +1,17 @@
+gitignore
+
+# IDE files
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Build output
+/build
+*/build
+
+*.jks
+*.keystore
+
+captures/
+.externalNativeBuild/
